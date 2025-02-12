@@ -6,6 +6,11 @@ This project analyzes pizza sales data to create an interactive dashboard.  We u
 
 ### 🚀 Quick Look (Non-Interactive PDF):
 [Pizza Sales Dashboard](https://github.com/DnyaneshwarKharachane/Power-BI-SQL-Project/blob/main/Pizza%20Sales%20Dashboard%20Screenshots.odt)  *(Note: This is a static PDF. For the full experience, see below.)*
+![Screenshot 2025-02-12 183340](https://github.com/user-attachments/assets/0edaf4ce-4566-4034-bc8f-212a335fef71)
+![Screenshot 2025-02-12 181224](https://github.com/user-attachments/assets/81a716fc-b94d-4809-af65-67d945c6215a)
+
+
+
 
 ### 💡 What We Wanted To Know:
 * **Key Metrics:** Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas per Order. 💰
