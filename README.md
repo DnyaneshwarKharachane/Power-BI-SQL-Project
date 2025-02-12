@@ -1,6 +1,6 @@
-# Power-BI-SQL-Project
+
+# 🍕 Pizza Sales Project 📊 Power-BI-SQL-Project
 Interactive Pizza Sales Dashboard Project
-# 🍕 Pizza Sales Project 📊
 
 This project analyzes pizza sales data to create an interactive dashboard.  We use Power BI and SQL to gain insights into our business performance.
 
